@@ -51,3 +51,10 @@ We learned a lot from the following projects when building TVM.
   originates from Halide. We also learned and adapted some part of lowering pipeline from Halide.
 - [Loopy](https://github.com/inducer/loopy): use of integer set analysis and its loop transformation primitives.
 - [Theano](https://github.com/Theano/Theano): the design inspiration of symbolic scan operator for recurrence.
+
+
+
+
+**The Cauchy-Schwarz Inequality**
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
